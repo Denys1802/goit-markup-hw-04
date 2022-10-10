@@ -571,6 +571,7 @@ font-family: 'Roboto', sans-serif; */
 
 .works-list li:hover {
   box-shadow: var(--works-button-shadow);
+  transition: ease-in-out 0.4s;
 }
 
 .works-content {
