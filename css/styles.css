@@ -69,7 +69,7 @@ font-family: 'Roboto', sans-serif; */
   padding: 0 15px;
   margin: 0 auto;
 }
-
+/*================= HEADER ======================*/
 .header {
   border-bottom: 1px solid var(--header-border);
 }
@@ -167,7 +167,7 @@ font-family: 'Roboto', sans-serif; */
   margin-right: 10px;
 }
 
-/* section decision */
+/* ======================SECTION DECISION ====================*/
 .section {
   padding: 94px 0;
 }
@@ -225,7 +225,7 @@ font-family: 'Roboto', sans-serif; */
   color: var(--accent-color);
 }
 
-/* section advantages */
+/* =================SECTION ADVANTAGES ==================*/
 
 .advantages {
   padding-bottom: 0;
@@ -275,7 +275,7 @@ font-family: 'Roboto', sans-serif; */
   line-height: 1.71;
   letter-spacing: 0.03em;
 }
-/* section doing */
+/*======================SECTION DOING ====================*/
 
 .doing-items {
   display: flex;
@@ -305,7 +305,7 @@ font-family: 'Roboto', sans-serif; */
   color: var(--secondary-color-text);
 }
 
-/* section team */
+/*=================== SECTION TEAM =================*/
 
 .team {
   background-color: var(--button-bg-color);
@@ -382,7 +382,7 @@ font-family: 'Roboto', sans-serif; */
   fill: var(--white-color-text);
 }
 
-/*section client */
+/*=================SECTION CLIENT==================== */
 
 .client-title {
   margin-bottom: 50px;
@@ -417,7 +417,7 @@ font-family: 'Roboto', sans-serif; */
   fill: var(--accent-color);
   border: 1px solid var(--accent-color);
 }
-/*section footer */
+/*=======================FOOTER ======================*/
 .footer {
   padding: 60px 0;
   background-color: var(--bg-color);
@@ -507,8 +507,9 @@ font-family: 'Roboto', sans-serif; */
   background-color: var(--accent-color);
 }
 
-/* Page Portfolio */
-/* section portfolio */
+/*================ PAGE PORTFOLIO===================*/
+
+/* ===================SECTION PORTFOLIO =================*/
 
 .works-item {
   display: flex;
